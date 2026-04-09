@@ -1,5 +1,7 @@
 <h1>Hi there, I'm Sebastijan 👋</h1>
-
+<p align="center">
+  <img src="(https://pixabay.com/photos/coding-computer-hacker-hacking-1841550/)" width="300" height="200">
+</p>
 <p>
 - 3rd year IT student at a technical high school from Slovenia 🇸🇮 <br>
 - Passionate about programming, building real-world projects, and developing games
